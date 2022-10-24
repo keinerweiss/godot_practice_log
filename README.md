@@ -2,6 +2,6 @@
 
 I'm a beginner.
 
-This is my [[Wiki|wiki]] of notes to myself during Godot Game Development practice.
+This is my [Wiki](wiki) of notes to myself during Godot Game Development practice.
 
 I set myself some challenges and the learnings and insights I'll drop here.
